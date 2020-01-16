@@ -1,3 +1,4 @@
+(function(exports) {
 window.lpTag = window.lpTag || {};
 lpTag.taglets = lpTag.taglets || {};
 lpTag._tagv = "4.1.2";
@@ -1117,3 +1118,4 @@ lpTag._tagv = "4.1.2";
     b.events = aa;
     z()
 }(window, lpTag);
+})(undefined);
